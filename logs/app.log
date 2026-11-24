@@ -1,0 +1,74 @@
+2026-11-23 10:44:33,455 | INFO | Starting in DRY-RUN mode
+2026-11-23 10:44:33,485 | INFO | Loaded 7 contacts from contacts.csv
+2026-11-23 10:44:33,495 | INFO | Loaded 10 reminders from reminders.csv
+2026-11-23 10:44:33,501 | INFO | DRY-RUN R004 -> sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 10:44:33,502 | INFO | DRY-RUN R003 -> rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 10:44:33,503 | INFO | DRY-RUN R001 -> aarav.demo@example.com | Reminder: Python Class
+2026-11-23 10:44:33,504 | INFO | DRY-RUN R002 -> priya.demo@example.com | Reminder: Python Class
+2026-11-23 10:44:33,504 | INFO | SKIPPED kiran.demo@example.com (unsubscribed)
+2026-11-23 10:44:33,504 | ERROR | FAILED  R006 -> meera.invalid-email | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 10:44:33,504 | ERROR | FAILED  R007 -> vikram.demo@example.com | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 10:44:33,505 | INFO | DRY-RUN R008 -> aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 10:44:43,509 | INFO | DRY-RUN R009 -> rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-23 10:44:53,511 | INFO | DRY-RUN R010 -> vikram.demo@example.com | Payment reminder - Invoice INV-1050
+2026-11-23 17:29:40,529 | INFO | Starting in DRY-RUN mode
+2026-11-23 17:29:40,576 | INFO | Loaded 7 contacts from contacts.csv
+2026-11-23 17:29:40,627 | INFO | Loaded 10 reminders from reminders.csv
+2026-11-23 17:29:40,678 | INFO | DRY-RUN R004 -> sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 17:29:40,703 | INFO | DRY-RUN R003 -> rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 17:29:40,729 | INFO | DRY-RUN R001 -> aarav.demo@example.com | Reminder: Python Class
+2026-11-23 17:29:40,743 | INFO | DRY-RUN R002 -> priya.demo@example.com | Reminder: Python Class
+2026-11-23 17:29:40,744 | INFO | SKIPPED kiran.demo@example.com (unsubscribed)
+2026-11-23 17:29:40,745 | ERROR | FAILED  R006 -> meera.invalid-email | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 17:29:40,746 | ERROR | FAILED  R007 -> vikram.demo@example.com | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 17:29:40,761 | INFO | DRY-RUN R008 -> aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:41:55,243 | INFO | Starting in DRY-RUN mode
+2026-11-23 19:41:55,273 | INFO | Loaded 7 contacts from contacts.csv
+2026-11-23 19:41:55,301 | INFO | Loaded 10 reminders from reminders.csv
+2026-11-23 19:41:55,346 | INFO | DRY-RUN R004 -> sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 19:41:55,352 | INFO | DRY-RUN R003 -> rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 19:41:55,355 | INFO | DRY-RUN R001 -> aarav.demo@example.com | Reminder: Python Class
+2026-11-23 19:41:55,359 | INFO | DRY-RUN R002 -> priya.demo@example.com | Reminder: Python Class
+2026-11-23 19:41:55,360 | INFO | SKIPPED kiran.demo@example.com (unsubscribed)
+2026-11-23 19:41:55,360 | ERROR | FAILED  R006 -> meera.invalid-email | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 19:41:55,362 | ERROR | FAILED  R007 -> vikram.demo@example.com | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 19:41:55,367 | INFO | DRY-RUN R008 -> aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:41:55,590 | INFO | DRY-RUN R009 -> rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-23 19:41:55,593 | INFO | DRY-RUN R010 -> vikram.demo@example.com | Payment reminder - Invoice INV-1050
+2026-11-23 19:46:59,185 | INFO | Starting in DRY-RUN mode
+2026-11-23 19:46:59,232 | INFO | Loaded 7 contacts from contacts.csv
+2026-11-23 19:46:59,322 | INFO | Loaded 10 reminders from reminders.csv
+2026-11-23 19:46:59,627 | INFO | DRY-RUN R004 -> sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 19:46:59,672 | INFO | DRY-RUN R003 -> rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 19:46:59,742 | INFO | DRY-RUN R001 -> aarav.demo@example.com | Reminder: Python Class
+2026-11-23 19:46:59,749 | INFO | DRY-RUN R002 -> priya.demo@example.com | Reminder: Python Class
+2026-11-23 19:46:59,750 | INFO | SKIPPED kiran.demo@example.com (unsubscribed)
+2026-11-23 19:46:59,751 | ERROR | FAILED  R006 -> meera.invalid-email | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 19:46:59,753 | ERROR | FAILED  R007 -> vikram.demo@example.com | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 19:46:59,757 | INFO | DRY-RUN R008 -> aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:47:32,107 | INFO | Starting in DRY-RUN mode
+2026-11-23 19:47:32,160 | INFO | Loaded 7 contacts from contacts.csv
+2026-11-23 19:47:32,205 | INFO | Loaded 10 reminders from reminders.csv
+2026-11-23 19:47:32,240 | INFO | DRY-RUN R004 -> sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 19:47:32,245 | INFO | DRY-RUN R003 -> rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 19:47:32,249 | INFO | DRY-RUN R001 -> aarav.demo@example.com | Reminder: Python Class
+2026-11-23 19:47:32,253 | INFO | DRY-RUN R002 -> priya.demo@example.com | Reminder: Python Class
+2026-11-23 19:47:32,253 | INFO | SKIPPED kiran.demo@example.com (unsubscribed)
+2026-11-23 19:47:32,253 | ERROR | FAILED  R006 -> meera.invalid-email | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 19:47:32,254 | ERROR | FAILED  R007 -> vikram.demo@example.com | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 19:47:32,261 | INFO | DRY-RUN R008 -> aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:47:32,265 | INFO | DRY-RUN R009 -> rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-23 19:47:32,269 | INFO | DRY-RUN R010 -> vikram.demo@example.com | Payment reminder - Invoice INV-1050
+2026-11-24 06:00:28,326 | INFO | Starting in DRY-RUN mode
+2026-11-24 06:00:28,367 | INFO | Loaded 7 contacts from contacts.csv
+2026-11-24 06:00:28,436 | INFO | Loaded 10 reminders from reminders.csv
+2026-11-24 06:00:28,474 | INFO | DRY-RUN R004 -> sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-24 06:00:28,478 | INFO | DRY-RUN R003 -> rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-24 06:00:28,483 | INFO | DRY-RUN R001 -> aarav.demo@example.com | Reminder: Python Class
+2026-11-24 06:00:28,486 | INFO | DRY-RUN R002 -> priya.demo@example.com | Reminder: Python Class
+2026-11-24 06:00:28,487 | INFO | SKIPPED kiran.demo@example.com (unsubscribed)
+2026-11-24 06:00:28,487 | ERROR | FAILED  R006 -> meera.invalid-email | ValueError: Invalid email address "meera.invalid-email"
+2026-11-24 06:00:28,488 | ERROR | FAILED  R007 -> vikram.demo@example.com | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-24 06:00:28,492 | INFO | DRY-RUN R008 -> aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-24 06:00:38,503 | INFO | DRY-RUN R009 -> rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-24 06:00:48,507 | INFO | DRY-RUN R010 -> vikram.demo@example.com | Payment reminder - Invoice INV-1050

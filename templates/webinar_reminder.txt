@@ -1,0 +1,10 @@
+Subject: Starting soon: $title
+---
+Hi $name,
+
+Thanks for registering for "$title".
+$details
+
+We look forward to seeing you from $company's team!
+
+$sender_name

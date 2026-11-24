@@ -1,0 +1,10 @@
+Subject: Reminder: $title
+---
+Hi $name,
+
+This is a friendly reminder about "$title" scheduled for $send_at.
+
+Details: $details
+
+Regards,
+$sender_name

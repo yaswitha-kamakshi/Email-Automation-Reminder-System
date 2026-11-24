@@ -1,0 +1,12 @@
+Subject: Payment reminder - $title
+---
+Dear $name,
+
+This is a reminder regarding $title (due date: $send_at).
+
+$details
+
+If you have already paid, please ignore this message.
+
+Thanks,
+$sender_name

@@ -1,0 +1,12 @@
+2026-11-23 10:44:33,504 | ERROR | R006 | meera.invalid-email |  | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 10:44:33,504 | ERROR | R007 | vikram.demo@example.com |  | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 17:29:40,745 | ERROR | R006 | meera.invalid-email |  | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 17:29:40,746 | ERROR | R007 | vikram.demo@example.com |  | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 19:41:55,361 | ERROR | R006 | meera.invalid-email |  | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 19:41:55,363 | ERROR | R007 | vikram.demo@example.com |  | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 19:46:59,752 | ERROR | R006 | meera.invalid-email |  | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 19:46:59,753 | ERROR | R007 | vikram.demo@example.com |  | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 19:47:32,254 | ERROR | R006 | meera.invalid-email |  | ValueError: Invalid email address "meera.invalid-email"
+2026-11-23 19:47:32,254 | ERROR | R007 | vikram.demo@example.com |  | FileNotFoundError: Template not found: no_such_template.txt
+2026-11-24 06:00:28,488 | ERROR | R006 | meera.invalid-email |  | ValueError: Invalid email address "meera.invalid-email"
+2026-11-24 06:00:28,489 | ERROR | R007 | vikram.demo@example.com |  | FileNotFoundError: Template not found: no_such_template.txt

@@ -1,0 +1,8 @@
+contact_id,name,email,company,subscribed
+C001,Aarav Sharma,aarav.demo@example.com,Demo Academy,yes
+C002,Priya Nair,priya.demo@example.com,Demo Academy,yes
+C003,Rohan Verma,rohan.demo@example.com,Acme Sales,yes
+C004,Sneha Reddy,sneha.demo@example.com,Acme HR,yes
+C005,Kiran Patel,kiran.demo@example.com,Acme Ops,no
+C006,Meera Iyer,meera.invalid-email,Acme Ops,yes
+C007,Vikram Rao,vikram.demo@example.com,Acme Finance,yes

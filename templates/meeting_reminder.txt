@@ -1,0 +1,10 @@
+Subject: Meeting alert: $title
+---
+Hello $name,
+
+You have an upcoming meeting: $title.
+When/where: $details
+Reminder generated for: $send_at
+
+See you there!
+$sender_name

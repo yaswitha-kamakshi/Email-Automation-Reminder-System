@@ -1,0 +1,11 @@
+timestamp,reminder_id,contact_name,email,subject,status,error
+2026-11-23 19:41:55,R004,Sneha Reddy,sneha.demo@example.com,Meeting alert: Weekly Team Sync,dry_run,
+2026-11-23 19:41:55,R003,Rohan Verma,rohan.demo@example.com,Payment reminder - Invoice INV-1042,dry_run,
+2026-11-23 19:41:55,R001,Aarav Sharma,aarav.demo@example.com,Reminder: Python Class,dry_run,
+2026-11-23 19:41:55,R002,Priya Nair,priya.demo@example.com,Reminder: Python Class,dry_run,
+2026-11-23 19:41:55,R005,Kiran Patel,kiran.demo@example.com,,skipped,Contact unsubscribed
+2026-11-23 19:41:55,R006,Meera Iyer,meera.invalid-email,,failed,"ValueError: Invalid email address ""meera.invalid-email"""
+2026-11-23 19:41:55,R007,Vikram Rao,vikram.demo@example.com,,failed,FileNotFoundError: Template not found: no_such_template.txt
+2026-11-23 19:41:55,R008,Aarav Sharma,aarav.demo@example.com,Meeting alert: Daily Standup,dry_run,
+2026-11-23 19:41:55,R009,Rohan Verma,rohan.demo@example.com,Starting soon: Webinar: Intro to Automation,dry_run,
+2026-11-23 19:41:55,R010,Vikram Rao,vikram.demo@example.com,Payment reminder - Invoice INV-1050,dry_run,

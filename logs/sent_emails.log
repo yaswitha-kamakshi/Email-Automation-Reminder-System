@@ -1,0 +1,38 @@
+2026-11-23 10:44:33,501 | INFO | dry_run | R004 | sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 10:44:33,502 | INFO | dry_run | R003 | rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 10:44:33,503 | INFO | dry_run | R001 | aarav.demo@example.com | Reminder: Python Class
+2026-11-23 10:44:33,504 | INFO | dry_run | R002 | priya.demo@example.com | Reminder: Python Class
+2026-11-23 10:44:33,505 | INFO | dry_run | R008 | aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 10:44:43,509 | INFO | dry_run | R009 | rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-23 10:44:53,512 | INFO | dry_run | R010 | vikram.demo@example.com | Payment reminder - Invoice INV-1050
+2026-11-23 17:29:40,678 | INFO | dry_run | R004 | sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 17:29:40,704 | INFO | dry_run | R003 | rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 17:29:40,730 | INFO | dry_run | R001 | aarav.demo@example.com | Reminder: Python Class
+2026-11-23 17:29:40,744 | INFO | dry_run | R002 | priya.demo@example.com | Reminder: Python Class
+2026-11-23 17:29:40,762 | INFO | dry_run | R008 | aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:41:55,347 | INFO | dry_run | R004 | sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 19:41:55,352 | INFO | dry_run | R003 | rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 19:41:55,356 | INFO | dry_run | R001 | aarav.demo@example.com | Reminder: Python Class
+2026-11-23 19:41:55,360 | INFO | dry_run | R002 | priya.demo@example.com | Reminder: Python Class
+2026-11-23 19:41:55,367 | INFO | dry_run | R008 | aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:41:55,590 | INFO | dry_run | R009 | rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-23 19:41:55,594 | INFO | dry_run | R010 | vikram.demo@example.com | Payment reminder - Invoice INV-1050
+2026-11-23 19:46:59,660 | INFO | dry_run | R004 | sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 19:46:59,738 | INFO | dry_run | R003 | rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 19:46:59,743 | INFO | dry_run | R001 | aarav.demo@example.com | Reminder: Python Class
+2026-11-23 19:46:59,750 | INFO | dry_run | R002 | priya.demo@example.com | Reminder: Python Class
+2026-11-23 19:46:59,759 | INFO | dry_run | R008 | aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:47:32,240 | INFO | dry_run | R004 | sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-23 19:47:32,246 | INFO | dry_run | R003 | rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-23 19:47:32,250 | INFO | dry_run | R001 | aarav.demo@example.com | Reminder: Python Class
+2026-11-23 19:47:32,253 | INFO | dry_run | R002 | priya.demo@example.com | Reminder: Python Class
+2026-11-23 19:47:32,262 | INFO | dry_run | R008 | aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-23 19:47:32,266 | INFO | dry_run | R009 | rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-23 19:47:32,269 | INFO | dry_run | R010 | vikram.demo@example.com | Payment reminder - Invoice INV-1050
+2026-11-24 06:00:28,474 | INFO | dry_run | R004 | sneha.demo@example.com | Meeting alert: Weekly Team Sync
+2026-11-24 06:00:28,478 | INFO | dry_run | R003 | rohan.demo@example.com | Payment reminder - Invoice INV-1042
+2026-11-24 06:00:28,483 | INFO | dry_run | R001 | aarav.demo@example.com | Reminder: Python Class
+2026-11-24 06:00:28,487 | INFO | dry_run | R002 | priya.demo@example.com | Reminder: Python Class
+2026-11-24 06:00:28,493 | INFO | dry_run | R008 | aarav.demo@example.com | Meeting alert: Daily Standup
+2026-11-24 06:00:38,504 | INFO | dry_run | R009 | rohan.demo@example.com | Starting soon: Webinar: Intro to Automation
+2026-11-24 06:00:48,508 | INFO | dry_run | R010 | vikram.demo@example.com | Payment reminder - Invoice INV-1050
