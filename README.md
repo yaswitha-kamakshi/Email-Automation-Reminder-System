@@ -97,6 +97,25 @@ python -m unittest discover -s tests      # run tests
 |---|---|
 | ![Dry run](images/dry_run_output.png) | ![Report](images/report_csv.png) |
 
+## Screenshots
+
+**Project structure**
+![Structure](images/project_structure.png)
+
+**Sample contacts and email template**
+![Contacts](images/contacts_csv.png)
+![Template](images/email_template.png)
+
+**Dry-run output**
+![Dry run](images/dry_run_output.png)
+
+**Scheduler (watch mode)**
+![Watch mode](images/watch_mode.png)
+
+**Logs and CSV report**
+![Logs](images/logs.png)
+![Report](images/report_csv.png)
+
 ## Learning Outcomes
 
 File handling and CSV processing with pandas · modular Python design · SMTP and MIME email · scheduling logic and recurrence · error handling and logging · idempotency · secret management · Git/GitHub workflow
