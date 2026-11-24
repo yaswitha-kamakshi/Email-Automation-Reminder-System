@@ -74,6 +74,9 @@ python main.py                            # 2. dry-run (safe default)
 python main.py --watch --duration 40      # 3. scheduler loop (dry-run)
 python main.py --live                     # 4. real emails (asks you to type YES)
 python -m unittest discover -s tests      # run tests
+### Dashboard (optional)
+pip install -r requirements.txt
+streamlit run dashboard.py
 ```
 
 ## Sample Output
@@ -95,7 +98,8 @@ python -m unittest discover -s tests      # run tests
 
 | | |
 |---|---|
-| ![Dry run](images/dry_run_output.png) | ![Report](images/report_csv.png) |
+| ![Dry run](images/dry_run_output.png) | ![Report](images/report_csv.png) | **Streamlit dashboard**
+![Dashboard](images/dashboard.png) | ![Failures](images/dashboard_failures.png)
 
 ## Screenshots
 
